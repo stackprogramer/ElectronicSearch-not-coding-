@@ -1,4 +1,4 @@
-# ##Electronic Search(not including source)
+#Electronic Search(not including source)
 
 #spice model mosfet transistor
 spice model mosfet transistor,hspice manual
